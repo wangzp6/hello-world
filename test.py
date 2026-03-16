@@ -1,3 +1,3 @@
 print('aaa')
 print('hello world')
-pring('提交pr')
+print('提交pr')
